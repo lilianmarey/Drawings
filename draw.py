@@ -1,5 +1,5 @@
 """
-helpers: Helper functions
+draw.py 
 =============================================
 
 .. moduleauthor:: Lilian MAREY <lilian.marey@ensae.fr>
@@ -133,8 +133,8 @@ def create_random_drawing(
         str(
             time()
             ) +
-        '.pdf',
-        format = 'pdf')
+        '.png',
+        format = 'png')
 
 
 ##########################################
